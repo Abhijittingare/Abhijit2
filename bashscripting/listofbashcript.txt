@@ -1,0 +1,8 @@
+arithmatic.sh.gz
+arithmatic.sh.save
+book
+copyoftwo
+error.txt
+four
+one
+two

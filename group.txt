@@ -1,0 +1,15 @@
+gdm:x:130:
+lxd:x:131:sujit
+sujit:x:1000:
+sambashare:x:132:sujit
+systemd-coredump:x:999:
+_cvsadmin:x:133:
+group2:x:1008:
+abhijit:x:1006:
+docker:x:134:sujit
+Abhijit:x:1009:
+Abhijitdada:x:1010:
+Abhijittingare:x:1011:
+group1:x:1012:
+group3:x:1013:
+group4:x:1014:
